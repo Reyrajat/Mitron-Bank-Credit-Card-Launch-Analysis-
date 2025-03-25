@@ -40,7 +40,7 @@ These insights **drive higher credit card adoption, increased spending, and enha
 ---
 
 ## **🔗 Link to Interactive Dashboard**
-📌 **[View Dashboard](#)** *(Replace # with the actual link to your Power BI report)*
+📌 **[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmU0NDRjMWQtZTE0Mi00YWE5LTgwNWMtY2M3ZmQ3NDIzYzJmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)** *(Replace # with the actual link to your Power BI report)*
 
 ### **🖥️ Dashboard Glimpse**
 *(Attach a screenshot or GIF preview of your Power BI dashboard here)*
